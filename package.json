@@ -24,7 +24,7 @@
     "get-change": "curl http://localhost:35729/changed?files=site.css"
   },
   "dependencies": {
-    "body-parser": "~1.8.0",
+    "body-parser": "~1.19.0",
     "debug": "~2.0.0",
     "faye-websocket": "~0.7.2",
     "livereload-js": "^2.2.0",
@@ -32,7 +32,7 @@
     "qs": "~2.2.3"
   },
   "devDependencies": {
-    "body-parser": "^1.0.2",
+    "body-parser": "^1.19.0",
     "connect": "^2.14.5",
     "express": "^4.1.1",
     "mocha": "^1.18.2",
